@@ -1,2 +1,2 @@
 python gen.py
-pause
+python main.py
